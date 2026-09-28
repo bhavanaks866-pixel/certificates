@@ -4,29 +4,29 @@ Welcome to my certifications repository.
 
 This repository contains certificates and credentials that demonstrate my academic experience, technical skills, internships, publications, and participation in learning activities.
 
-## 📜 Certificates
+Certificates
 
-### 🤖 Artificial Intelligence & Technology
+Artificial Intelligence & Technology
 
 * **AI for Students – Build Your Own Generative AI Model**
 * **Android App Development Certificate**
 * **Digital 101 Journey Certificate**
 
-### 💼 Internship Certificates
+Internship Certificates
 
 * **BCA Internship Completion Certificate**
 * **MCA Internship Completion Certificate**
 
-### 📚 Research & Publications
+Research & Publications
 
 * **IJSREM66535 – Main Author Publication Certificate**
 * **IJSREM66986 – Co-Author Publication Certificate**
 
-### 💰 Financial Literacy
+Financial Literacy
 
 * **National Financial Literacy Quiz Certificate**
 
-## 🎯 Areas of Learning
+Areas of Learning
 
 * Artificial Intelligence & Generative AI
 * Android Application Development
@@ -35,7 +35,7 @@ This repository contains certificates and credentials that demonstrate my academ
 * Financial Literacy
 * Internship Experience
 
-## 👩‍💻 About Me
+About Me
 
 **Bhavana K S**
 MCA Graduate | Software Development | Web Development
